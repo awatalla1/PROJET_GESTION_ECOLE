@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\formmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\formcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\data\\gestionscolairecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\data\\gestionscolairecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\formclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\formclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\pro\\source\\repos\\gestion_ecole\\gestion_ecole\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9003DE-C337-490E-A059-E41516406227}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\models\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMatiere.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormMatiere.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\FormMatiere.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormMatiere.cs",
+              "RelativeToolTip": "Gestion_Ecole\\FormMatiere.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAWwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:53:16.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCours.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormCours.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\FormCours.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormCours.cs",
+              "RelativeToolTip": "Gestion_Ecole\\FormCours.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAewGsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:42:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMatiere.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormMatiere.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\FormMatiere.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormMatiere.cs [Design]",
+              "RelativeToolTip": "Gestion_Ecole\\FormMatiere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:36:16.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormCours.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormCours.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\FormCours.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormCours.cs [Design]",
+              "RelativeToolTip": "Gestion_Ecole\\FormCours.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:26:01.427Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\models\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\models\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\models\\Etudiant.cs",
+              "RelativeToolTip": "Gestion_Ecole\\models\\Etudiant.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAD4vxkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:22:46.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GestionScolaireContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\data\\GestionScolaireContext.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\data\\GestionScolaireContext.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\data\\GestionScolaireContext.cs",
+              "RelativeToolTip": "Gestion_Ecole\\data\\GestionScolaireContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:52:31.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\models\\Classe.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\models\\Classe.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\models\\Classe.cs",
+              "RelativeToolTip": "Gestion_Ecole\\models\\Classe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:30:01.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormClasse.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormClasse.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\FormClasse.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\FormClasse.cs",
+              "RelativeToolTip": "Gestion_Ecole\\FormClasse.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:41:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Registration.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Registration.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Registration.cs*",
+              "RelativeToolTip": "Gestion_Ecole\\Registration.cs*",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAANUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:29:06.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Registration.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Registration.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Registration.cs [Design]*",
+              "RelativeToolTip": "Gestion_Ecole\\Registration.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:21:38.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Program.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Program.cs",
+              "RelativeToolTip": "Gestion_Ecole\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvxcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:20:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Dashboard.cs*",
+              "RelativeToolTip": "Gestion_Ecole\\Dashboard.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAIA0wFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:22:23.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\Dashboard.cs [Design]*",
+              "RelativeToolTip": "Gestion_Ecole\\Dashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:44:39.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\login.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\login.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\login.cs",
+              "RelativeToolTip": "Gestion_Ecole\\login.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:26:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\login.cs",
+              "RelativeDocumentMoniker": "Gestion_Ecole\\login.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\Gestion_Ecole\\Gestion_Ecole\\login.cs [Design]",
+              "RelativeToolTip": "Gestion_Ecole\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:15:56.778Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
